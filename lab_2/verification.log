@@ -1,5 +1,0 @@
-WARNING: D:\GitRepo\Metaprogramming\lab_2\example/1.kt: 6-CLASS_NAMING_ERROR: test__CLASS_WIth_bad_name should be TestClassWithBadName
-WARNING: D:\GitRepo\Metaprogramming\lab_2\example/1.kt: 10-FUN_NAMING_ERROR: FunctionInERROrCase should be functionInErrorCase
-WARNING: D:\GitRepo\Metaprogramming\lab_2\example/1.kt: 11-VAL_NAMING_ERROR: MUTABLE_Collection should be mutableCollection
-WARNING: D:\GitRepo\Metaprogramming\lab_2\example/1.kt: 15-VAR_NAMING_ERROR: NAME should be name
-WARNING: D:\GitRepo\Metaprogramming\lab_2\example/3.kt: 5-OBJECT_NAMING_ERROR: NAME should be name

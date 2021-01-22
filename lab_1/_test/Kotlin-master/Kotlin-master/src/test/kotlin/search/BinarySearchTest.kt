@@ -20,7 +20,8 @@ class BinarySearchTest {
 
 
     @Test
-    fun testBinarySearch2() {
+    fun testBinarySearch2()
+    {
         val array = arrayOf(1,2,4,8, 16)
         val key = 1
         assert(binarySearch(array, key)==0)
